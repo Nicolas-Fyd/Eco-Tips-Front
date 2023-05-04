@@ -1,4 +1,4 @@
-# Welcome to Project Eco Tips 
+# Welcome to Project Eco Tips
 
 ## What is Eco Tips ?
 
